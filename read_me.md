@@ -1,20 +1,11 @@
 # Git ReadMe
 ## Working with branahes
 
-<<<<<<< HEAD
-* Для просмотра списка существующих веток необходимо вызвать следующую команду: 
-
-    git branch
-
-команда "git branch" - позволяет отслеживать на какой ветке мы находимся
-
-=======
 * Для просмотра списка сущестующих веток необходимо вызвать комманду: 
 
     git branch
 
 команда git status позволяет отслеживать на какой ветке мы находимся
->>>>>>> Working
 ### Adding a new branch
 
 * Для добавления новой ветки используется следующая комманда ("branch_name" - название создаваемой ветки)
@@ -27,4 +18,4 @@
 
     git checkout dranch_name
 ### Merging branche
-### Deleting a branchgit git git 
+### Deleting a branchgit 
